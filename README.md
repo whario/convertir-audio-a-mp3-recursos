@@ -5,6 +5,12 @@ Reúne accesos directos a las herramientas principales y una breve descripción 
 
 ---
 
+## 🔬 Recurso técnico original: laboratorio de formatos de audio
+
+Publicamos un [laboratorio de siete archivos sintéticos reproducibles](audio-format-lab/README.md) para comparar contenedores y códecs WAV/PCM, MP3, Ogg/Opus, Ogg/Vorbis, M4A/AAC, ADTS/AAC y 3GP/AAC. Incluye generador Python/FFmpeg, [datos CSV](audio-format-lab/measurements.csv), [JSON](audio-format-lab/measurements.json), SHA-256 y metodología. No utiliza audios reales ni pretende demostrar compatibilidad de dispositivos.
+
+---
+
 ## 🔗 Enlaces principales
 
 - Sitio principal (ES): **[Convertir Audio a MP3](https://convertiraudioamp3.com/)**
